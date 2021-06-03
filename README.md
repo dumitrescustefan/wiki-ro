@@ -1,4 +1,4 @@
-#Wiki-ro
+# Wiki-ro
 
 This corpus is a thoroughly cleaned dump of the June 2020 Romanian Wikipedia. It is meant as a reference text upon which to calculate Language Model capacity and/or perplexity. 
 
